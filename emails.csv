@@ -1,0 +1,60 @@
+email,date,subject,text,label
+alice@company.com,2025-09-01 08:15,Performance Review Reminder,"Reminder: Your quarterly performance review is scheduled for Thursday at 2 PM. Please confirm your availability.",important
+security@alerts.com,2025-09-02 03:42,Account Suspension Notice,"URGENT: Your account has been suspended due to suspicious activity. Click here to verify your identity.",spam
+hr@company.com,2025-09-03 09:00,Timesheet Submission,"Team, please submit your timesheets by EOD Friday to avoid payroll delays. Let me know if you need help.",important
+promo@rewards.com,2025-09-04 11:20,You’ve Won a $500 Gift Card!,"Congratulations! You've been selected for a $500 gift card. Claim now by clicking the link below.",spam
+jane@client.com,2025-09-05 14:10,Dashboard Feedback,"Client feedback: They loved the new dashboard layout. Let's discuss next steps tomorrow during our call.",important
+offers@healthboost.com,2025-09-06 07:55,BOGO Supplement Sale,"Limited-time offer: Buy one, get one free on all supplements. Ends tonight! Don’t miss out.",spam
+it@company.com,2025-09-07 22:00,Server Migration Notice,"FYI: The server migration will begin at 10 PM Saturday. Expect downtime until 2 AM. Backup your files.",important
+contest@teslagiveaway.com,2025-09-08 12:30,Win a Tesla Model 3!,"Win a brand new Tesla Model 3! Enter your email to qualify. No purchase necessary.",spam
+finance@company.com,2025-09-09 10:45,Budget Proposal Review,"Please review the attached budget proposal before our Monday meeting. Feedback is appreciated.",important
+support@antivirus.com,2025-09-10 06:00,Subscription Expired,"Your antivirus subscription has expired. Renew now to stay protected and avoid security risks.",spam
+design@company.com,2025-09-11 16:20,Design Sync Notes,"Notes from today's design sync are uploaded to the shared folder. Let me know if anything is missing.",important
+wealth@fastcash.com,2025-09-12 13:15,Make $10K/month from Home,"Get rich quick! Learn how to earn $10,000/month from home with zero experience. Sign up today!",spam
+security@company.com,2025-09-13 02:30,Unusual Login Alert,"Security alert: Unusual login detected from a new device. Was this you? Please verify immediately.",important
+events@cryptomasterclass.com,2025-09-14 18:00,Last Chance to Join,"Act fast! Only 3 spots left in our crypto investment masterclass. Reserve your seat now.",spam
+strategy@company.com,2025-09-15 09:30,Q4 Strategy Agenda,"Draft agenda for the Q4 strategy session is ready. Feedback welcome by Wednesday.",important
+sales@luxurywatches.com,2025-09-16 08:00,70% Off Luxury Watches,"Exclusive deal: 70% off luxury watches. Offer valid for 24 hours only. Shop now.",spam
+onboarding@company.com,2025-09-17 10:00,Onboarding Checklist Update,"New hire onboarding checklist updated. Please ensure all items are completed by next week.",important
+loans@quickcash.com,2025-09-18 15:45,Loan Approval Notice,"Your loan has been approved! Click here to finalize your application and receive funds.",spam
+admin@company.com,2025-09-19 07:30,Travel Reimbursement Reminder,"Reminder: Submit your travel reimbursement forms before the 15th to ensure timely processing.",important
+vacation@bahamasfree.com,2025-09-20 12:00,Free Bahamas Vacation!,"Claim your free vacation to the Bahamas—no strings attached! Just fill out this quick form.",spam
+updates@company.com,2025-09-21 09:00,Weekly Update,"Here’s your weekly update on project milestones and upcoming deadlines.",important
+deals@superstore.com,2025-09-22 11:45,Flash Sale Today!,"Don’t miss our 12-hour flash sale. Up to 80% off electronics and home goods.",spam
+ceo@company.com,2025-09-23 08:30,Leadership Message,"A message from our CEO regarding company values and upcoming initiatives.",important
+lottery@bigwin.com,2025-09-24 14:00,You’ve Won the Lottery!,"Your email was selected in our international lottery. Claim your prize now!",spam
+legal@company.com,2025-09-25 10:15,Policy Update,"Please review the updated privacy and data handling policies effective October 1.",important
+crypto@mooncoin.io,2025-09-26 13:30,Get Rich with MoonCoin,"Invest in MoonCoin today and watch your portfolio skyrocket!",spam
+team@company.com,2025-09-27 09:45,Team Lunch Invite,"Join us for a team lunch this Friday at noon. RSVP by Wednesday.",important
+offers@miraclecream.com,2025-09-28 16:00,Erase Wrinkles Instantly!,"Try our miracle anti-aging cream and look 20 years younger!",spam
+manager@company.com,2025-09-29 08:00,Project Deadline Reminder,"Reminder: The final draft of the report is due by end of day Friday.",important
+bonus@cashdrop.com,2025-09-30 12:20,Claim Your $100 Bonus,"You’ve been selected for a $100 cash bonus. Click here to claim.",spam
+cto@company.com,2025-10-01 09:10,Tech Roadmap,"Here’s the updated tech roadmap for Q4. Let’s align on priorities next week.",important
+alerts@banksecure.com,2025-10-02 07:30,Account Locked,"Your bank account has been locked due to suspicious activity. Verify your identity now.",spam
+marketing@company.com,2025-10-03 11:00,Campaign Results,"The Q3 campaign results are in. Let’s review performance and next steps.",important
+prizes@freegear.com,2025-10-04 13:50,Free Gear Giveaway,"Get your free fitness gear by entering your email and shipping address.",spam
+ops@company.com,2025-10-05 08:45,Operations Update,"Operations will be running on reduced hours this weekend due to maintenance.",important
+deals@hotstuff.com,2025-10-06 15:00,Hot Deals Inside,"Open now for exclusive deals on fashion and tech!",spam
+training@company.com,2025-10-07 09:30,Training Schedule,"The training schedule for new hires is now available. Please review and confirm attendance.",important
+cash@easybucks.com,2025-10-08 14:10,Make Money Fast,"Earn money fast with our proven system. No experience needed!",spam
+scheduler@company.com,2025-10-09 08:00,Meeting Confirmation,"Your meeting with the product team is confirmed for Thursday at 3 PM.",important
+promo@winbig.com,2025-10-10 12:45,Win Big Today!,"Enter our sweepstakes for a chance to win $10,000!",spam
+hr@company.com,2025-10-11 09:15,Open Enrollment,"Open enrollment for health benefits starts Monday. Review your options and enroll early.",important
+alerts@fakesecurity.com,2025-10-12 06:30,Security Breach,"Your account was compromised. Reset your password immediately.",spam
+events@company.com,2025-10-13 10:00,Company Picnic,"Join us for the annual company picnic next Saturday. Family welcome!",important
+offers@magicpill.com,2025-10-14 13:00,Lose Weight Overnight,"Try our magic pill and lose 10 pounds in 3 days!",spam
+exec@company.com,2025-10-15 08:20,Executive Briefing,"Executive briefing scheduled for Friday morning. Slides will be shared tomorrow.",important
+deals@cheaptech.com,2025-10-16 14:30,Cheap Tech Deals,"Get the latest gadgets at unbeatable prices. Limited time only!",spam
+compliance@company.com,2025-10-17 09:00,Compliance Training,"Mandatory compliance training scheduled for next week. Please complete by Friday.",important
+bonus@fastcash.com,2025-10-18 12:00,Fast Cash Bonus,"You’ve earned a fast cash bonus. Click to redeem.",spam
+notify@techhub.com,2025-09-01 08:15,Quarterly Planning Meeting,"Please review the attached document before Friday.",important
+alerts@finwise.com,2025-09-01 09:30,Claim Your Free iPhone,"Click here to claim your free prize!",spam
+team@medix.com,2025-09-02 10:00,Updated Project Timeline,"Meeting scheduled for Monday at 10 AM.",important
+offers@greenbyte.com,2025-09-02 11:45,You've Been Selected!,"You've won a trip—confirm now!",spam
+info@cloudcore.com,2025-09-03 14:10,Client Feedback Summary,"Client feedback has been uploaded to the portal.",important
+sales@fastlane.com,2025-09-03 15:30,Win a Trip to Bali,"Get rich fast with zero effort.",spam
+support@securemail.com,2025-09-04 08:00,Team Performance Review,"Submit your performance review by end of week.",important
+events@brightworks.com,2025-09-04 09:20,Exclusive Crypto Offer,"Limited-time crypto offer—act fast!",spam
+admin@nextgen.com,2025-09-05 10:45,New Compliance Guidelines,"Compliance guidelines updated. Review required.",important
+promo@datastream.com,2025-09-05 12:00,Get Rich Quick Scheme,"Buy now and save 80%!",spam
+Cuisine.News@snappy-pixel-327.firebaseapp.com, 2025-09-06 07:00,Top 10 Healthy Recipes,"Discover delicious and healthy recipes to try this week.",important
