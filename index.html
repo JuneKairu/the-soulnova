@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome - Universal Code Learning</title>
+  <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+  <div id="onboarding">
+    <div class="welcome active" id="welcome1">
+      <h1>👋 Welcome!</h1>
+      <p>This site helps you learn Morse Code, Binary, Sign Language, and Braille.</p>
+      <button onclick="nextWelcome(2)">Next ➡️</button>
+    </div>
+    <div class="welcome hidden" id="welcome2">
+      <h1>📖 Learn Step by Step</h1>
+      <p>Each system has lessons, practice tools, and quizzes to guide you.</p>
+      <button onclick="prevWelcome(1)">⬅️ Back</button>
+      <button onclick="nextWelcome(3)">Next ➡️</button>
+    </div>
+    <div class="welcome hidden" id="welcome3">
+      <h1>🚀 Ready to Start?</h1>
+      <p>Choose a topic and begin your journey.</p>
+      <button onclick="prevWelcome(2)">⬅️ Back</button>
+      <!-- Redirect to home.html -->
+      <a href="home.html"><button>Proceed to Home</button></a>
+    </div>
+  </div>
+
+  <script src="js/index.js"></script>
+</body>
+</html>

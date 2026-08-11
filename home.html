@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home - Universal Code Learning</title>
+  <link rel="stylesheet" href="css/home.css">
+</head>
+<body>
+  <div id="mainApp">
+    <aside class="sidebar">
+      <h2>Topics</h2>
+      <ul>
+        <li onclick="showTab('morse')">Morse Code</li>
+        <li onclick="showTab('binary')">Binary</li>
+        <li onclick="showTab('sign')">Sign Language</li>
+        <li onclick="showTab('braille')">Braille</li>
+      </ul>
+    </aside>
+
+    <main class="content">
+      <section id="morse" class="tab active">
+        <h1>Morse Code</h1>
+        <p>Learn dots and dashes with lessons, practice, and quizzes.</p>
+      </section>
+      <section id="binary" class="tab hidden">
+        <h1>Binary</h1>
+        <p>Understand 0s and 1s, ASCII codes, and practice conversions.</p>
+      </section>
+      <section id="sign" class="tab hidden">
+        <h1>Sign Language</h1>
+        <p>Learn basic hand signs for letters and words.</p>
+      </section>
+      <section id="braille" class="tab hidden">
+        <h1>Braille</h1>
+        <p>Explore tactile dot patterns used for reading and writing.</p>
+      </section>
+    </main>
+  </div>
+
+  <script src="js/home.js"></script>
+</body>
+</html>
