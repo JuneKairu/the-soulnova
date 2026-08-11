@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  background: #f0f6fb;
+  color: #1a2a3a;
+}
+
+#mainApp {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 220px;
+  background: #2a5d9f;
+  color: #fff;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-top: 0;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 10px 0;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.sidebar li:hover {
+  background: #3a7bd5;
+}
+
+.content {
+  flex: 1;
+  padding: 30px;
+  background: #fff;
+}
+
+.tab.hidden {
+  display: none;
+}
