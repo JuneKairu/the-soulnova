@@ -10,33 +10,49 @@
     <aside class="sidebar">
       <h2>Topics</h2>
       <ul>
-        <li onclick="showTab('morse')">Morse Code</li>
-        <li onclick="showTab('binary')">Binary</li>
-        <li onclick="showTab('sign')">Sign Language</li>
-        <li onclick="showTab('braille')">Braille</li>
+        <li>
+          <span onclick="toggleDropdown('morse-dropdown')">Morse Code ▸</span>
+          <ul id="morse-dropdown" class="dropdown hidden">
+            <li onclick="loadTab('morse-intro')">Introduction</li>
+            <li onclick="loadTab('morse-lesson1')">Lesson 1</li>
+            <li onclick="loadTab('morse-lesson2')">Lesson 2</li>
+            <li onclick="loadTab('morse-lesson3')">Lesson 3</li>
+            <li onclick="loadTab('morse-lesson4')">Lesson 4</li>
+            <li onclick="loadTab('morse-lesson5')">Lesson 5</li>
+            <li onclick="loadTab('morse-charts')">Charts</li>
+          </ul>
+        </li>
+        <li>
+          <span onclick="toggleDropdown('binary-dropdown')">Binary ▸</span>
+          <ul id="binary-dropdown" class="dropdown hidden">
+            <li onclick="loadTab('binary-intro')">Introduction</li>
+            <li onclick="loadTab('binary-lessons')">Lessons</li>
+            <li onclick="loadTab('binary-charts')">Charts</li>
+          </ul>
+        </li>
+        <li>
+          <span onclick="toggleDropdown('sign-dropdown')">Sign Language ▸</span>
+          <ul id="sign-dropdown" class="dropdown hidden">
+            <li onclick="loadTab('sign-intro')">Introduction</li>
+            <li onclick="loadTab('sign-lessons')">Lessons</li>
+            <li onclick="loadTab('sign-charts')">Charts</li>
+          </ul>
+        </li>
+        <li>
+          <span onclick="toggleDropdown('braille-dropdown')">Braille ▸</span>
+          <ul id="braille-dropdown" class="dropdown hidden">
+            <li onclick="loadTab('braille-intro')">Introduction</li>
+            <li onclick="loadTab('braille-lessons')">Lessons</li>
+            <li onclick="loadTab('braille-charts')">Charts</li>
+          </ul>
+        </li>
       </ul>
     </aside>
 
-    <main class="content">
-      <section id="morse" class="tab active">
-        <h1>Morse Code</h1>
-        <p>Learn dots and dashes with lessons, practice, and quizzes.</p>
-      </section>
-      <section id="binary" class="tab hidden">
-        <h1>Binary</h1>
-        <p>Understand 0s and 1s, ASCII codes, and practice conversions.</p>
-      </section>
-      <section id="sign" class="tab hidden">
-        <h1>Sign Language</h1>
-        <p>Learn basic hand signs for letters and words.</p>
-      </section>
-      <section id="braille" class="tab hidden">
-        <h1>Braille</h1>
-        <p>Explore tactile dot patterns used for reading and writing.</p>
-      </section>
+    <main class="content" id="tabContent">
+      <h2>Select a topic from the sidebar</h2>
     </main>
   </div>
-
   <script src="js/home.js"></script>
 </body>
 </html>
