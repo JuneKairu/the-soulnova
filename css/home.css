@@ -11,7 +11,7 @@ body {
 }
 
 .sidebar {
-  width: 220px;
+  width: 250px;
   background: #2a5d9f;
   color: #fff;
   padding: 20px;
@@ -26,23 +26,43 @@ body {
   padding: 0;
 }
 
-.sidebar li {
+.sidebar > ul > li {
   margin: 10px 0;
+}
+
+.sidebar span {
   cursor: pointer;
+  display: block;
   padding: 8px;
   border-radius: 4px;
 }
 
-.sidebar li:hover {
+.sidebar span:hover {
   background: #3a7bd5;
+}
+
+.dropdown {
+  list-style: none;
+  padding-left: 15px;
+}
+
+.dropdown li {
+  margin: 5px 0;
+  cursor: pointer;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.dropdown li:hover {
+  background: #3a7bd5;
+}
+
+.hidden {
+  display: none;
 }
 
 .content {
   flex: 1;
   padding: 30px;
   background: #fff;
-}
-
-.tab.hidden {
-  display: none;
 }
